@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .ipynb_checkpoints/
+.jupyter/
+.DS_Store
+# local read-only clones of Karpathy's repos, not part of this repo
+reference/
